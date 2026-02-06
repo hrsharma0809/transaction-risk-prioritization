@@ -38,4 +38,4 @@ This framework mirrors how payment networks and banks prioritize fraud and risk 
 - GitHub
 
 ## Dashboard Preview
-![Risk Operations Dashboard](dashboard/dashboard_screenshot.png)
+![Risk Operations Dashboard](risk.png)
